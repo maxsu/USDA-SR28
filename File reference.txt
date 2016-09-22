@@ -1,0 +1,35 @@
+Food Description File
+  File: FOOD_DES.txt
+
+Food Group Description
+  File: FD_GROUP.txt
+
+Footnote File
+  File: FOOTNOTE.txt
+
+Nutrient Definition File
+  File: NUTR_DEF.txt
+
+Nutrient Data File
+  File: NUT_DATA.txt
+
+Source Code File
+  File: SRC_CD.txt
+
+Data Derivation Code Description File
+  File: DERIV_CD.txt
+
+Sources of Data File
+  File: DATA_SRC.txt
+
+Sources of Data Link File
+  File: DATSRCLN.txt
+
+Weight File
+  File: WEIGHT.txt
+
+LanguaL Factor File
+  File: LANGUAL.txt
+
+LanguaL Factors Description File
+  File: LANGDESC.txt
